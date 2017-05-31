@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714205772639",
+    "firebase_url": "https://chatmessenger-2a9bc.firebaseio.com",
+    "project_id": "chatmessenger-2a9bc",
+    "storage_bucket": "chatmessenger-2a9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714205772639:android:b6bbdb65ec79000a",
+        "android_client_info": {
+          "package_name": "com.example.shubhangi.chatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714205772639-0n22cc79d3hq47h810g4e61b5p6krukb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubhangi.chatmessenger",
+            "certificate_hash": "851243028dae4272ac062c8a29935107b4676edb"
+          }
+        },
+        {
+          "client_id": "714205772639-ccd3mh8v1lirhncmojpmharnfko1873l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OaaobMZC-Z8G6DEw5nSaBLHMzCuyKrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714205772639-ccd3mh8v1lirhncmojpmharnfko1873l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
